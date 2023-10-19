@@ -15,7 +15,7 @@ There will be:
 - Python
   
 ### Libraries:
-Sklearn, Numpy, Pandas, xgboost, lightgbm, optuna, seaborn, requests
+Sklearn, Numpy, Pandas, xgboost, lightgbm, optuna, seaborn, matplotlib, requests
 
 ### Spoken languages:
 - Russian, English, Math
