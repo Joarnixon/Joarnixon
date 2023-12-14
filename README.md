@@ -7,7 +7,7 @@ There will be:
 
 - My fantastic experiments with all the craziest ideas that come to my mind (if i have any time to make them real)
 - My code projects in which I am interested in
-- Maybe some day will write math theoretical inferences made real with programming
+- Maybe some day will write my math theoretical inferences
 
 # Worth noticing:
 
@@ -15,7 +15,7 @@ There will be:
 - Python
   
 ### Libraries:
-Sklearn, Numpy, Pandas, xgboost, lightgbm, optuna, seaborn, matplotlib
+Sklearn, Numpy, Pandas, xgboost, lightgbm, catboost, numba, torch, torchvision, optuna, seaborn, matplotlib
 
 ### Spoken languages:
 - Russian, English, Math
@@ -27,8 +27,8 @@ Sklearn, Numpy, Pandas, xgboost, lightgbm, optuna, seaborn, matplotlib
 Future plans:
 - Internship (prioretized)
 - Study the Torch framework (currently)
-- Upload all the pet projects I made locally / planning to make as I have too much ideas
-- Try to apply for laboratory of neuroscience as data scientist cause I keen on neuroscience and psychology!
+- Upload all the pet projects I made locally or on kaggle, colab / planning to make as I have too much not realised ideas
+- Try to apply for laboratory of neuroscience as enthusiast data scientist cause I keen on neuroscience and psychology!
 - Make my own revolutionary(just a dream) AI architecture or research in this field!
 
 # Stay tuned for updates...
