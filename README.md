@@ -5,9 +5,8 @@
 Glad to see you there!
 There will be:
 
-- My fantastic experiments with all the craziest ideas that come to my mind (if i have any time to make them real)
+- My experiments (if i have any time to make them real)
 - My code projects in which I am interested in
-- Maybe some day will write my math theoretical inferences
 
 # Worth noticing:
 
@@ -15,10 +14,10 @@ There will be:
 - Python
   
 ### Libraries:
-Sklearn, Numpy, Pandas, xgboost, lightgbm, catboost, numba, torch, torchvision, optuna, seaborn, matplotlib
+Sklearn, Numpy, Scipy, Pandas, xgboost, lightgbm, catboost, numba, torch, torchvision, optuna, seaborn, matplotlib
 
 ### Spoken languages:
-- Russian, English, Math
+- Russian, English
   
 ### Studying:
 - Novosibirsk State University (Russia), Bachelor degree at Math
