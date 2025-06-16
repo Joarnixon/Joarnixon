@@ -12,11 +12,12 @@ There will be:
 
 ### Preferred language:
 - Python
+- C++ (beginner)
   
 ### Libraries:
-Sklearn, Numpy, Scipy, Pandas, xgboost, lightgbm, catboost, numba, torch, torchvision, optuna, seaborn, matplotlib
+Torch, Scikit-learn, Numpy, Scipy, Pandas, Polars, FastAPI, Catboost, numba, optuna, seaborn, matplotlib
 
-### Spoken languages:
+### Languages:
 - Russian, English
   
 ### Studying:
@@ -27,10 +28,7 @@ Future plans:
 - Internship (prioretized)
 - Study the Torch framework (currently)
 - Upload all the pet projects I made locally or on kaggle, colab / planning to make as I have too much not realised ideas
-- Try to apply for laboratory of neuroscience as enthusiast data scientist cause I keen on neuroscience and psychology!
-- Make my own revolutionary(just a dream) AI architecture or research in this field!
 
-# Stay tuned for updates...
 <!---
 Joarnixon/Joarnixon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
